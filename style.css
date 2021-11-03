@@ -1,0 +1,33 @@
+input{
+    margin:10px;
+
+}
+#bs{
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#bsort{
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: none;
+}
+#displaynamewithcommas
+{
+    border:1px solid blue;
+    padding: 10px ;
+    background-color: cornflowerblue;
+    border-radius: 10 px;
+    width: 50%;
+
+}
+
+#displaynamewithoutcommas
+{
+    border:1px solid red;
+    padding: 10px ;
+    background-color: rebeccapurple;
+    border-radius: 10 px;
+    width: 50%;
+}
